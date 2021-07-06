@@ -1,3 +1,3 @@
 # Today I Learned
 
-> 잘될거다.
+> 잘될거다. 
